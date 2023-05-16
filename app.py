@@ -119,5 +119,5 @@ The metric for evaluation will be f1-score
 st.markdown("Please find GitHub repository link of project: [Click Here](https://github.com/avikumart/Road-Traffic-Severity-Classification-Project)")          
   
 # run the main function        
-if _name_ == '_main_':
+if __name__ == '__main__':
   main()
